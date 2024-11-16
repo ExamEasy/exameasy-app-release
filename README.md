@@ -1,3 +1,5 @@
 # exameasy-app-release
 
-APK发布托管项目
+This project is oly for download our ExamEasy APK.
+
+Our official website is https://www.exameasy.com.hk/ incase you wanna install from AppStore & GooglePlay.
